@@ -1,0 +1,24 @@
+{
+  "name": "learn-fp-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trgkyle/learn-fp-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trgkyle/learn-fp-ts/issues"
+  },
+  "homepage": "https://github.com/trgkyle/learn-fp-ts#readme",
+  "dependencies": {
+    "fp-ts": "^2.13.2",
+    "typescript": "^5.0.4"
+  }
+}
